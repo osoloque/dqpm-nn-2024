@@ -1,0 +1,89 @@
+
+
+*******************************************************************************
+Thu Jul  8 18:55:22 2021
+
+
+FIT:    data read from 'alpha_s_nf2_kazmarek.dat' u ($1):($3)
+        format = x:z
+        x range restricted to [1.00000 : 3.00000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: b0(x)
+	b0(x)=0.249191-b2/x**2+b3/x**3+b4/x**4+b6/x**6
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Thu Jul  8 18:55:40 2021
+
+
+FIT:    data read from 'alpha_s_nf2_kazmarek.dat' u ($1):($3)
+        format = x:z
+        x range restricted to [1.00000 : 3.00000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: b0(x)
+	b0(x)=0.249191-b2/x**2+b3/x**3+b4/x**4+b6/x**6
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b2            b3            b4            b4            b6           
+   0 5.2789494524e+00   0.00e+00  4.74e-01    1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Thu Jul  8 18:57:36 2021
+
+
+FIT:    data read from 'alpha_s_nf2_kazmarek.dat' u ($1):($3)
+        format = x:z
+        x range restricted to [1.00000 : 4.00000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: b0(x)
+	b0(x)=0.249191+1.7655/x**2-b3/x**3+b4/x**4+b6/x**6
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b3            b4            b4            b6           
+   0 6.0973636851e-01   0.00e+00  4.24e-01    1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Thu Jul  8 18:58:10 2021
+
+
+FIT:    data read from 'alpha_s_nf2_kazmarek.dat' u ($1):($2)
+        format = x:z
+        x range restricted to [1.00000 : 4.00000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: b0(x)
+	b0(x)=0.249191+1.7655/x**2-b3/x**3+b4/x**4+b6/x**6
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b3            b4            b4            b6           
+   0 7.8462111605e-01   0.00e+00  4.24e-01    1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Thu Jul  8 18:58:19 2021
+
+
+FIT:    data read from 'alpha_s_nf2_kazmarek.dat' u ($1):($2)
+        format = x:z
+        x range restricted to [1.00000 : 4.00000]
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: b0(x)
+	b0(x)=0.249191+1.7655/x**2-b3/x**3+b4/x**4+b6/x**6
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b3            b4            b4            b6           
+   0 7.8462111605e-01   0.00e+00  4.24e-01    1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00
+BREAK: Singular matrix in Invert_RtR
