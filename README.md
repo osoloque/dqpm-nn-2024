@@ -17,4 +17,4 @@ This folder contains the core DQPM-NN, written in its more generic form with 6 o
 and changing the last "6" with the desired number of outputs
 
 ## Setups
-Here we report the models models used in the publication 2311.15984, together with a basic script to plot them. 
+Here we report the models models used in the publication Phys. Rev. C 110, 034908 - [arxiv:2311.15984](arxiv:2311.15984), together with a basic script to plot them. 
